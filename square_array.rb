@@ -5,3 +5,5 @@ def square_array(array)
     square = num ** 2
     square_array << square
 end
+  square_array
+end
